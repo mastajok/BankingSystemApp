@@ -3,10 +3,12 @@
     public class UserAccount
     {
         public int Id { get; set; }
-        public decimal CurrentBalance { get; set; }
+
+        public decimal CurrentBalance { get; set; } = 0;
 
         public int UserId { get; set; }
 
-        public User User { get; set; }
+        public string AccountName { get; set; }
+
     }
 }

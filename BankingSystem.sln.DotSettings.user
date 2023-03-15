@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=84a3c326_002Df852_002D4afe_002D97f0_002D2a053d19cef7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAllUsersTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A6C575F6-A9DE-4CB2-A537-E7053B84B79E::net6.0::BankingSystem.UnitTests.UserRepositoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A6C575F6-A9DE-4CB2-A537-E7053B84B79E::net6.0::BankingSystem.UnitTests.UserAccountRepositoryTests.CreateUserAccountTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A6C575F6-A9DE-4CB2-A537-E7053B84B79E::net6.0::BankingSystem.UnitTests.UserAccountRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a84dd82a_002D3652_002D47a1_002Dbe80_002D2113f202c575/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllUsersTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A6C575F6-A9DE-4CB2-A537-E7053B84B79E::net6.0::BankingSystem.UnitTests.UserRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

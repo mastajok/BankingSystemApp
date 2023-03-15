@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BankingSystem.Data.Entities
+﻿namespace BankingSystem.Data.Entities
 {
     public class User
     {
@@ -15,7 +9,6 @@ namespace BankingSystem.Data.Entities
         public string LastName { get; set; }
 
         public string Email { get; set; }
-
 
         public ICollection<UserAccount> Accounts { get; set; }
 

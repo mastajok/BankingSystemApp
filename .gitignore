@@ -3,8 +3,5 @@
 ################################################################################
 
 /.vs
-/src/BankingSystem/obj
-/src/BankingSystem.Contracts/obj
-/src/BankingSystem.Data/obj
-/src/BankingSystem.DataAccess/obj
-/src/BankingSystem.Services/obj
+/*/*/obj
+/*/*/bin
